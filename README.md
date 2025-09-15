@@ -1,5 +1,7 @@
-Hello World
+# Hello World
 
 Hello World repository for Git Tutorial. This is an example for Git tutorial and how to connect it with GitHub remote repository.
 This tutorial focused mainly on Git and using GitHub as its remote.
 This repository is built step by step in the tutorial.
+
+It now includes step for GitHub.
